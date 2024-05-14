@@ -1,0 +1,6 @@
+20:12:59.738 IST [main] WARN  loggingTest.TestSelenium - Maximizing the browser window.
+20:12:59.830 IST [main] INFO  loggingTest.TestSelenium - Starting test...
+20:13:04.087 IST [main] INFO  loggingTest.TestSelenium - LinkedIn Opened
+20:13:05.738 IST [main] INFO  loggingTest.TestSelenium - Clicked on the 'Sign In' button
+20:13:05.739 IST [main] INFO  loggingTest.TestSelenium - Waiting 3 seconds before quiting the browser
+20:13:08.755 IST [main] INFO  loggingTest.TestSelenium - Test completed.
